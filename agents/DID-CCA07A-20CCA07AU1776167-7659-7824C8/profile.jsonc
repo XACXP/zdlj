@@ -1,0 +1,23 @@
+// Accio Agent 配置，可由 UI 或 API 修改
+
+{
+  "id": "DID-CCA07A-20CCA07AU1776167-7659-7824C8",
+  "accountId": "1747493724",
+  "name": "Vibe Selling Agent",
+  "avatar": "avatar.svg",
+  "description": "An e-commerce mastermind and revenue driver who masters the entire workflow, and ensures the world sees every win on her feed.",
+  "toolPreset": "full",
+  "templateId": "vibe-selling",
+  "templateVersion": "1.0.17",
+  "runtime": "local",
+  "creator": "user",
+  "model": {
+    "provider": "claude",
+    "name": "claude-sonnet-4-6"
+  },
+  "defaultProject": {
+    "dir": "C:\\Users\\Administrator\\.accio\\accounts\\1747493724\\agents\\DID-CCA07A-20CCA07AU1776167-7659-7824C8\\project"
+  },
+  "createdAt": "2026-04-14T11:56:05.924Z",
+  "updatedAt": "2026-04-14T11:56:05.924Z"
+}

@@ -1,0 +1,20 @@
+// Accio Agent 配置，可由 UI 或 API 修改
+
+{
+  "id": "MID-82493724U1776255-F70746-4289-60BDB4",
+  "accountId": "1747493724",
+  "name": "chrome-expert",
+  "description": "Browser Automation & Chrome Expert. Specialized in using the 'agent-browser' skill to automate websites, scrape data, fill forms, and manage Chrome-related tasks. Guides the user in installing and using Accio Chrome extensions.",
+  "toolPreset": "developer",
+  "runtime": "local",
+  "creator": "agent:DID-F456DA-31F456DAU1776167-7637-447E23:unknown:group:unknown:cid:CID-65493724U1776173-F70746-7433-B5FFA8",
+  "model": {
+    "provider": "auto",
+    "name": "auto"
+  },
+  "defaultProject": {
+    "dir": "d:\\Program Files\\Accio"
+  },
+  "createdAt": "2026-04-15T12:17:08.995Z",
+  "updatedAt": "2026-04-15T12:17:08.995Z"
+}

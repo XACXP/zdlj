@@ -1,0 +1,53 @@
+{
+  "27_alibaba-publish-skill": {
+    "installedVersion": "0.0.48"
+  },
+  "27_product-selection": {
+    "installedVersion": "0.0.48"
+  },
+  "27_dropshipping-supplier-integrator": {
+    "installedVersion": "0.0.48"
+  },
+  "27_cross-border-selection": {
+    "installedVersion": "0.0.48"
+  },
+  "27_aliexpress-supplier-evaluator": {
+    "installedVersion": "0.0.48"
+  },
+  "27_product-supplier-sourcing": {
+    "installedVersion": "0.0.48"
+  },
+  "27_review-analyst-agent": {
+    "installedVersion": "0.0.48"
+  },
+  "27_company-research": {
+    "installedVersion": "0.0.48"
+  },
+  "27_people-research": {
+    "installedVersion": "0.0.48"
+  },
+  "27_product-description-generator": {
+    "installedVersion": "0.0.48"
+  },
+  "27_ecommerce-seo-optimizer": {
+    "installedVersion": "0.0.48"
+  },
+  "27_programmatic-seo-strategist": {
+    "installedVersion": "0.0.48"
+  },
+  "27_serp-ranking-analyzer": {
+    "installedVersion": "0.0.48"
+  },
+  "27_seo-keyword-research": {
+    "installedVersion": "0.0.48"
+  },
+  "27_seo-competitor-analysis": {
+    "installedVersion": "0.0.48"
+  },
+  "27_shopify-ads-roas-optimizer": {
+    "installedVersion": "0.0.48"
+  },
+  "27_1688-sourcing": {
+    "installedVersion": "0.0.48"
+  }
+}

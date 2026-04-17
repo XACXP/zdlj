@@ -1,0 +1,23 @@
+// Accio Agent 配置，可由 UI 或 API 修改
+
+{
+  "id": "DID-0D58EF-390D58EFU1776167-7658-C5BA03",
+  "accountId": "1747493724",
+  "name": "Shopify Operator",
+  "avatar": "avatar.svg",
+  "description": "Beginner-friendly Shopify store assistant. Guides you step-by-step: theme-based product sourcing from real suppliers (Alibaba/Jungle Scout) → bulk product listing with image enhancement → full store decoration with high-quality visuals.",
+  "toolPreset": "full",
+  "templateId": "shopify-operator",
+  "templateVersion": "2.0.0",
+  "runtime": "local",
+  "creator": "user",
+  "model": {
+    "provider": "auto",
+    "name": "auto"
+  },
+  "defaultProject": {
+    "dir": "C:\\Users\\Administrator\\.accio\\accounts\\1747493724\\agents\\DID-0D58EF-390D58EFU1776167-7658-C5BA03\\project"
+  },
+  "createdAt": "2026-04-14T11:56:05.845Z",
+  "updatedAt": "2026-04-14T11:56:05.845Z"
+}

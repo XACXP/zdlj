@@ -1,0 +1,8 @@
+{
+  "id": "3",
+  "subject": "Execute product publishing/migration",
+  "description": "Use the alibaba-publish-skill to migrate/publish products from the provided URLs to the Alibaba International Station account.",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

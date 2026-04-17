@@ -1,0 +1,5 @@
+{"type":"prefix","pattern":["write"],"decision":"allow","justification":"Shopify: file write auto-allowed for reports and listings","createdAt":"2026-04-14T11:56:05.853Z"}
+{"type":"prefix","pattern":["edit"],"decision":"allow","justification":"Shopify: file edit auto-allowed","createdAt":"2026-04-14T11:56:05.853Z"}
+{"type":"prefix","pattern":["apply_patch"],"decision":"ask","justification":"Shopify: patch needs approval","createdAt":"2026-04-14T11:56:05.853Z"}
+{"type":"prefix","pattern":["bash"],"decision":"ask","justification":"Shopify: shell exec needs approval","createdAt":"2026-04-14T11:56:05.853Z"}
+{"type":"prefix","pattern":["browser"],"decision":"ask","justification":"Shopify: browser needs approval","createdAt":"2026-04-14T11:56:05.853Z"}

@@ -1,0 +1,23 @@
+// Accio Agent 配置，可由 UI 或 API 修改
+
+{
+  "id": "DID-DB9653-96DB9653U1776167-7658-7B5497",
+  "accountId": "1747493724",
+  "name": "Coder",
+  "avatar": "avatar.svg",
+  "description": "A coding-focused agent for software development — writing, debugging, refactoring, and reviewing code.",
+  "toolPreset": "full",
+  "templateId": "coder",
+  "templateVersion": "1.0.0",
+  "runtime": "local",
+  "creator": "user",
+  "model": {
+    "provider": "auto",
+    "name": "auto"
+  },
+  "defaultProject": {
+    "dir": "C:\\Users\\Administrator\\.accio\\accounts\\1747493724\\agents\\DID-DB9653-96DB9653U1776167-7658-7B5497\\project"
+  },
+  "createdAt": "2026-04-14T11:56:05.900Z",
+  "updatedAt": "2026-04-14T11:56:05.900Z"
+}

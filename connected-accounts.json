@@ -1,0 +1,20 @@
+{
+  "alibaba": {
+    "displayName": "Alibaba.com",
+    "accounts": [
+      {
+        "label": "1747493724",
+        "connectedAt": 1776173609630
+      }
+    ]
+  },
+  "github": {
+    "displayName": "GitHub",
+    "accounts": [
+      {
+        "label": "05771688a@gmail.com",
+        "connectedAt": 1776177382409
+      }
+    ]
+  }
+}

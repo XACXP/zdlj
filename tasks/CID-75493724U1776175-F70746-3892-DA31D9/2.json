@@ -1,0 +1,8 @@
+{
+  "id": "2",
+  "subject": "Collect product URLs for publishing",
+  "description": "Request the source product URLs (1688, Taobao, Tmall, etc.) from the user that need to be published to Alibaba International Station.",
+  "status": "in_progress",
+  "blocks": [],
+  "blockedBy": []
+}

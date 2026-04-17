@@ -1,0 +1,53 @@
+{
+  "sheet_name": "全纸筒核价表",
+  "blocks": [
+    {
+      "type": "上下卷边全纸罐 (Roll Edge Type)",
+      "inputs": {
+        "直径 (Diameter)": "A6",
+        "高度 (Height)": "B6",
+        "数量 (Quantity)": "C6",
+        "亚膜/亮膜 (Film)": "D6",
+        "内管长度 (Inner tube length)": "E6",
+        "内管卷边 (Inner tube roll edge)": "F6",
+        "热熔胶单价 (Hot melt glue price)": "G6",
+        "拉管工次/米数 (Tube pulling speed)": "H6/I6",
+        "修头工资/次数 (Trimming labor)": "J6/K6",
+        "封盖工资/次数 (Capping labor)": "L6/M6",
+        "卷边工资/次数 (Roll edge labor)": "A9/B9",
+        "装配工资/个数 (Assembly labor)": "C9/D9",
+        "面纸规格 (Paper dimensions)": "E9/F9",
+        "贴标工资/次数 (Labeling labor)": "K9/L9",
+        "厂租电费 (Rent/Power)": "M9/N9",
+        "外管纸张参数 (Outer tube material)": "P17/Q17/R17 (Grammage/Price per Ton/Layers)",
+        "内管纸张参数 (Inner tube material)": "P18/Q18/R18"
+      },
+      "outputs": {
+        "总成本 (Total Cost)": "H29"
+      }
+    },
+    {
+      "type": "天地盖型全纸罐 (Telescopic Type)",
+      "inputs": {
+        "直径 (Diameter)": "A33",
+        "高度 (Height)": "B33",
+        "数量 (Quantity)": "C33",
+        "亚膜/亮膜 (Film)": "D33",
+        "内管长度 (Inner tube length)": "E33",
+        "内管卷边 (Inner tube roll edge)": "F33",
+        "热熔胶单价 (Hot melt glue price)": "G33",
+        "拉管工次/米数 (Tube pulling speed)": "H33/I33",
+        "修头工资/次数 (Trimming labor)": "J33/K33",
+        "封盖工资/次数 (Capping labor)": "L33/M33",
+        "卷边工资/次数 (Roll edge labor)": "A36/B36",
+        "装配工资/个数 (Assembly labor)": "C36/D36",
+        "面纸规格 (Paper dimensions)": "E36/F36",
+        "贴标工资/次数 (Labeling labor)": "K36/L36",
+        "厂租电费 (Rent/Power)": "M36/N36"
+      },
+      "outputs": {
+        "总成本 (Total Cost)": "H52"
+      }
+    }
+  ]
+}

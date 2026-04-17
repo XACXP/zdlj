@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "subject": "Environment check for Alibaba publishing",
+  "description": "Verify login status and CSRF token on https://post.alibaba.com to ensure the account is ready for product publishing.",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

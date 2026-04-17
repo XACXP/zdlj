@@ -1,0 +1,5 @@
+{"type":"prefix","pattern":["write"],"decision":"allow","justification":"Daily assistant: auto-allowed","createdAt":"2026-04-14T11:56:03.743Z"}
+{"type":"prefix","pattern":["edit"],"decision":"allow","justification":"Daily assistant: auto-allowed","createdAt":"2026-04-14T11:56:03.743Z"}
+{"type":"prefix","pattern":["apply_patch"],"decision":"allow","justification":"Daily assistant: auto-allowed","createdAt":"2026-04-14T11:56:03.743Z"}
+{"type":"prefix","pattern":["cat"],"decision":"allow","bypassSandbox":true,"createdAt":"2026-04-14T21:36:48.628+08:00"}
+{"type":"prefix","pattern":["python3"],"decision":"allow","bypassSandbox":true,"createdAt":"2026-04-14T21:36:48.629+08:00"}

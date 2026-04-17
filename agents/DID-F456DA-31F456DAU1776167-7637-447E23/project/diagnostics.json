@@ -1,0 +1,35 @@
+{
+  "metrics": {
+    "data_range": "Recent (approx. 7-30 days based on section)",
+    "store": {
+      "search_exposure": 1182,
+      "clicks": 19,
+      "inquiry_counts": 0,
+      "order_counts": 0,
+      "visitors": 33
+    },
+    "industry": {
+      "top_keywords": ["paper tube", "paper boxes", "paper straws"],
+      "top_countries": ["United States", "Mexico", "Saudi Arabia", "Egypt"],
+      "market_scale_index_top_performer": 261
+    }
+  },
+  "product_evaluations": [
+    {
+      "product_id": "1601722289415",
+      "name": "Dongjia OEM Recyclable Sterile Biodegradable Color Printing Paper Tube",
+      "completeness": "High: attributes like industry application, material, type, and customization fully populated.",
+      "layout": "Professional: 6+ high-quality images, clear breadcrumbs and structure.",
+      "professionalism": "Professional: descriptive title, technical terminology, clean English description.",
+      "seo": "Strong: targets keywords like Recyclable, Sterile, Biodegradable, Color Printing."
+    },
+    {
+      "product_id": "1601723548719",
+      "name": "Biodegradable Kraft Paper Tube 1/8 Inch and 1/16 Inch Wall Thickness",
+      "completeness": "Exceptional: very detailed technical attributes including wall thickness and specific coating/printing processes.",
+      "layout": "Excellent: clear presentation of technical specs and product variety via images.",
+      "professionalism": "Very High: uses technical precision (e.g., 1/8 Inch Wall Thickness) to appeal to industrial buyers.",
+      "seo": "Excellent: optimized for specific industrial search terms like Kraft Paper Tube, Chemical Packaging, Industrial Hollow Core."
+    }
+  ]
+}
